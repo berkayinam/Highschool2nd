@@ -1,0 +1,20 @@
+C:\Users\inan\Desktop\10 C\26-SayıTahmin\26-SayıTahmin\bin\Debug\26-SayıTahmin.exe.config
+C:\Users\inan\Desktop\10 C\26-SayıTahmin\26-SayıTahmin\bin\Debug\26-SayıTahmin.exe
+C:\Users\inan\Desktop\10 C\26-SayıTahmin\26-SayıTahmin\bin\Debug\26-SayıTahmin.pdb
+C:\Users\inan\Desktop\10 C\26-SayıTahmin\26-SayıTahmin\obj\Debug\26-SayıTahmin.csprojResolveAssemblyReference.cache
+C:\Users\inan\Desktop\10 C\26-SayıTahmin\26-SayıTahmin\obj\Debug\26-SayıTahmin.exe
+C:\Users\inan\Desktop\10 C\26-SayıTahmin\26-SayıTahmin\obj\Debug\26-SayıTahmin.pdb
+C:\Users\BAHADIR\Desktop\26-SayıTahmin\26-SayıTahmin\bin\Debug\26-SayıTahmin.exe.config
+C:\Users\BAHADIR\Desktop\26-SayıTahmin\26-SayıTahmin\bin\Debug\26-SayıTahmin.exe
+C:\Users\BAHADIR\Desktop\26-SayıTahmin\26-SayıTahmin\bin\Debug\26-SayıTahmin.pdb
+C:\Users\BAHADIR\Desktop\26-SayıTahmin\26-SayıTahmin\obj\Debug\26-SayıTahmin.csprojResolveAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\26-SayıTahmin\26-SayıTahmin\obj\Debug\26-SayıTahmin.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\26-SayıTahmin\26-SayıTahmin\obj\Debug\26-SayıTahmin.exe
+C:\Users\BAHADIR\Desktop\26-SayıTahmin\26-SayıTahmin\obj\Debug\26-SayıTahmin.pdb
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\26-SayıTahmin\26-SayıTahmin\bin\Debug\26-SayıTahmin.exe.config
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\26-SayıTahmin\26-SayıTahmin\bin\Debug\26-SayıTahmin.exe
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\26-SayıTahmin\26-SayıTahmin\bin\Debug\26-SayıTahmin.pdb
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\26-SayıTahmin\26-SayıTahmin\obj\Debug\26-SayıTahmin.csprojResolveAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\26-SayıTahmin\26-SayıTahmin\obj\Debug\26-SayıTahmin.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\26-SayıTahmin\26-SayıTahmin\obj\Debug\26-SayıTahmin.exe
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\26-SayıTahmin\26-SayıTahmin\obj\Debug\26-SayıTahmin.pdb

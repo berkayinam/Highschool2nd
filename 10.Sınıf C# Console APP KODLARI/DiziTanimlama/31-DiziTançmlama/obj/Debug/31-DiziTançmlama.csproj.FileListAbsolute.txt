@@ -1,0 +1,13 @@
+C:\Users\inan\Desktop\10 A\31-DiziTanımlama\31-DiziTanımlama\bin\Debug\31-DiziTanımlama.exe.config
+C:\Users\inan\Desktop\10 A\31-DiziTanımlama\31-DiziTanımlama\bin\Debug\31-DiziTanımlama.exe
+C:\Users\inan\Desktop\10 A\31-DiziTanımlama\31-DiziTanımlama\bin\Debug\31-DiziTanımlama.pdb
+C:\Users\inan\Desktop\10 A\31-DiziTanımlama\31-DiziTanımlama\obj\Debug\31-DiziTanımlama.csprojResolveAssemblyReference.cache
+C:\Users\inan\Desktop\10 A\31-DiziTanımlama\31-DiziTanımlama\obj\Debug\31-DiziTanımlama.exe
+C:\Users\inan\Desktop\10 A\31-DiziTanımlama\31-DiziTanımlama\obj\Debug\31-DiziTanımlama.pdb
+C:\Users\BAHADIR\Desktop\31-DiziTanımlama\31-DiziTanımlama\bin\Debug\31-DiziTanımlama.exe.config
+C:\Users\BAHADIR\Desktop\31-DiziTanımlama\31-DiziTanımlama\bin\Debug\31-DiziTanımlama.exe
+C:\Users\BAHADIR\Desktop\31-DiziTanımlama\31-DiziTanımlama\bin\Debug\31-DiziTanımlama.pdb
+C:\Users\BAHADIR\Desktop\31-DiziTanımlama\31-DiziTanımlama\obj\Debug\31-DiziTanımlama.csprojResolveAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\31-DiziTanımlama\31-DiziTanımlama\obj\Debug\31-DiziTanımlama.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\31-DiziTanımlama\31-DiziTanımlama\obj\Debug\31-DiziTanımlama.exe
+C:\Users\BAHADIR\Desktop\31-DiziTanımlama\31-DiziTanımlama\obj\Debug\31-DiziTanımlama.pdb

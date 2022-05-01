@@ -1,0 +1,12 @@
+C:\Users\inan\Desktop\10 A\28-0girilenekadartopla\28-0girilenekadartopla\bin\Debug\28-0girilenekadartopla.exe.config
+C:\Users\inan\Desktop\10 A\28-0girilenekadartopla\28-0girilenekadartopla\bin\Debug\28-0girilenekadartopla.exe
+C:\Users\inan\Desktop\10 A\28-0girilenekadartopla\28-0girilenekadartopla\bin\Debug\28-0girilenekadartopla.pdb
+C:\Users\inan\Desktop\10 A\28-0girilenekadartopla\28-0girilenekadartopla\obj\Debug\28-0girilenekadartopla.exe
+C:\Users\inan\Desktop\10 A\28-0girilenekadartopla\28-0girilenekadartopla\obj\Debug\28-0girilenekadartopla.pdb
+C:\Users\BAHADIR\Desktop\28-0girilenekadartopla\28-0girilenekadartopla\bin\Debug\28-0girilenekadartopla.exe.config
+C:\Users\BAHADIR\Desktop\28-0girilenekadartopla\28-0girilenekadartopla\bin\Debug\28-0girilenekadartopla.exe
+C:\Users\BAHADIR\Desktop\28-0girilenekadartopla\28-0girilenekadartopla\bin\Debug\28-0girilenekadartopla.pdb
+C:\Users\BAHADIR\Desktop\28-0girilenekadartopla\28-0girilenekadartopla\obj\Debug\28-0girilenekadartopla.csprojResolveAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\28-0girilenekadartopla\28-0girilenekadartopla\obj\Debug\28-0girilenekadartopla.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\28-0girilenekadartopla\28-0girilenekadartopla\obj\Debug\28-0girilenekadartopla.exe
+C:\Users\BAHADIR\Desktop\28-0girilenekadartopla\28-0girilenekadartopla\obj\Debug\28-0girilenekadartopla.pdb

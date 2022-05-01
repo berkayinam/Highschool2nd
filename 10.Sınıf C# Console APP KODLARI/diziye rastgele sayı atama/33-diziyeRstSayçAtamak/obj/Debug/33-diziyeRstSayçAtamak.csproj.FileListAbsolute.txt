@@ -1,0 +1,20 @@
+C:\Users\inan\Desktop\10 A\33-diziyeRstSayıAtamak\33-diziyeRstSayıAtamak\bin\Debug\33-diziyeRstSayıAtamak.exe.config
+C:\Users\inan\Desktop\10 A\33-diziyeRstSayıAtamak\33-diziyeRstSayıAtamak\bin\Debug\33-diziyeRstSayıAtamak.exe
+C:\Users\inan\Desktop\10 A\33-diziyeRstSayıAtamak\33-diziyeRstSayıAtamak\bin\Debug\33-diziyeRstSayıAtamak.pdb
+C:\Users\inan\Desktop\10 A\33-diziyeRstSayıAtamak\33-diziyeRstSayıAtamak\obj\Debug\33-diziyeRstSayıAtamak.csprojResolveAssemblyReference.cache
+C:\Users\inan\Desktop\10 A\33-diziyeRstSayıAtamak\33-diziyeRstSayıAtamak\obj\Debug\33-diziyeRstSayıAtamak.exe
+C:\Users\inan\Desktop\10 A\33-diziyeRstSayıAtamak\33-diziyeRstSayıAtamak\obj\Debug\33-diziyeRstSayıAtamak.pdb
+C:\Users\BAHADIR\Desktop\33-diziyeRstSayıAtamak\33-diziyeRstSayıAtamak\bin\Debug\33-diziyeRstSayıAtamak.exe.config
+C:\Users\BAHADIR\Desktop\33-diziyeRstSayıAtamak\33-diziyeRstSayıAtamak\bin\Debug\33-diziyeRstSayıAtamak.exe
+C:\Users\BAHADIR\Desktop\33-diziyeRstSayıAtamak\33-diziyeRstSayıAtamak\bin\Debug\33-diziyeRstSayıAtamak.pdb
+C:\Users\BAHADIR\Desktop\33-diziyeRstSayıAtamak\33-diziyeRstSayıAtamak\obj\Debug\33-diziyeRstSayıAtamak.csprojResolveAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\33-diziyeRstSayıAtamak\33-diziyeRstSayıAtamak\obj\Debug\33-diziyeRstSayıAtamak.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\33-diziyeRstSayıAtamak\33-diziyeRstSayıAtamak\obj\Debug\33-diziyeRstSayıAtamak.exe
+C:\Users\BAHADIR\Desktop\33-diziyeRstSayıAtamak\33-diziyeRstSayıAtamak\obj\Debug\33-diziyeRstSayıAtamak.pdb
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\33-diziyeRstSayıAtamak\33-diziyeRstSayıAtamak\bin\Debug\33-diziyeRstSayıAtamak.exe.config
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\33-diziyeRstSayıAtamak\33-diziyeRstSayıAtamak\bin\Debug\33-diziyeRstSayıAtamak.exe
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\33-diziyeRstSayıAtamak\33-diziyeRstSayıAtamak\bin\Debug\33-diziyeRstSayıAtamak.pdb
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\33-diziyeRstSayıAtamak\33-diziyeRstSayıAtamak\obj\Debug\33-diziyeRstSayıAtamak.csprojResolveAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\33-diziyeRstSayıAtamak\33-diziyeRstSayıAtamak\obj\Debug\33-diziyeRstSayıAtamak.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\33-diziyeRstSayıAtamak\33-diziyeRstSayıAtamak\obj\Debug\33-diziyeRstSayıAtamak.exe
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\33-diziyeRstSayıAtamak\33-diziyeRstSayıAtamak\obj\Debug\33-diziyeRstSayıAtamak.pdb

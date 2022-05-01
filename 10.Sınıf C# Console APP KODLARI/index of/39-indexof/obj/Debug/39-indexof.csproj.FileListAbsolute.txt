@@ -1,0 +1,14 @@
+C:\Users\inan\Desktop\11A\39-indexof\39-indexof\bin\Debug\39-indexof.exe.config
+C:\Users\inan\Desktop\10 A\39-indexof\39-indexof\bin\Debug\39-indexof.exe.config
+C:\Users\inan\Desktop\10 A\39-indexof\39-indexof\bin\Debug\39-indexof.exe
+C:\Users\inan\Desktop\10 A\39-indexof\39-indexof\bin\Debug\39-indexof.pdb
+C:\Users\inan\Desktop\10 A\39-indexof\39-indexof\obj\Debug\39-indexof.csprojResolveAssemblyReference.cache
+C:\Users\inan\Desktop\10 A\39-indexof\39-indexof\obj\Debug\39-indexof.exe
+C:\Users\inan\Desktop\10 A\39-indexof\39-indexof\obj\Debug\39-indexof.pdb
+C:\Users\BAHADIR\Desktop\39-indexof\39-indexof\bin\Debug\39-indexof.exe.config
+C:\Users\BAHADIR\Desktop\39-indexof\39-indexof\bin\Debug\39-indexof.exe
+C:\Users\BAHADIR\Desktop\39-indexof\39-indexof\bin\Debug\39-indexof.pdb
+C:\Users\BAHADIR\Desktop\39-indexof\39-indexof\obj\Debug\39-indexof.csprojResolveAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\39-indexof\39-indexof\obj\Debug\39-indexof.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\39-indexof\39-indexof\obj\Debug\39-indexof.exe
+C:\Users\BAHADIR\Desktop\39-indexof\39-indexof\obj\Debug\39-indexof.pdb

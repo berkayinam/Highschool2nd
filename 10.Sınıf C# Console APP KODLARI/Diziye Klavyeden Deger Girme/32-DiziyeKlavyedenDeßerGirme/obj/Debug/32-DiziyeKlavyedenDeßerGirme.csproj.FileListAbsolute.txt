@@ -1,0 +1,20 @@
+C:\Users\inan\Desktop\10 A\32-DiziyeKlavyedenDeğerGirme\32-DiziyeKlavyedenDeğerGirme\bin\Debug\32-DiziyeKlavyedenDeğerGirme.exe.config
+C:\Users\inan\Desktop\10 A\32-DiziyeKlavyedenDeğerGirme\32-DiziyeKlavyedenDeğerGirme\bin\Debug\32-DiziyeKlavyedenDeğerGirme.exe
+C:\Users\inan\Desktop\10 A\32-DiziyeKlavyedenDeğerGirme\32-DiziyeKlavyedenDeğerGirme\bin\Debug\32-DiziyeKlavyedenDeğerGirme.pdb
+C:\Users\inan\Desktop\10 A\32-DiziyeKlavyedenDeğerGirme\32-DiziyeKlavyedenDeğerGirme\obj\Debug\32-DiziyeKlavyedenDeğerGirme.csprojResolveAssemblyReference.cache
+C:\Users\inan\Desktop\10 A\32-DiziyeKlavyedenDeğerGirme\32-DiziyeKlavyedenDeğerGirme\obj\Debug\32-DiziyeKlavyedenDeğerGirme.exe
+C:\Users\inan\Desktop\10 A\32-DiziyeKlavyedenDeğerGirme\32-DiziyeKlavyedenDeğerGirme\obj\Debug\32-DiziyeKlavyedenDeğerGirme.pdb
+C:\Users\BAHADIR\Desktop\32-DiziyeKlavyedenDeğerGirme\32-DiziyeKlavyedenDeğerGirme\bin\Debug\32-DiziyeKlavyedenDeğerGirme.exe.config
+C:\Users\BAHADIR\Desktop\32-DiziyeKlavyedenDeğerGirme\32-DiziyeKlavyedenDeğerGirme\bin\Debug\32-DiziyeKlavyedenDeğerGirme.exe
+C:\Users\BAHADIR\Desktop\32-DiziyeKlavyedenDeğerGirme\32-DiziyeKlavyedenDeğerGirme\bin\Debug\32-DiziyeKlavyedenDeğerGirme.pdb
+C:\Users\BAHADIR\Desktop\32-DiziyeKlavyedenDeğerGirme\32-DiziyeKlavyedenDeğerGirme\obj\Debug\32-DiziyeKlavyedenDeğerGirme.csprojResolveAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\32-DiziyeKlavyedenDeğerGirme\32-DiziyeKlavyedenDeğerGirme\obj\Debug\32-DiziyeKlavyedenDeğerGirme.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\32-DiziyeKlavyedenDeğerGirme\32-DiziyeKlavyedenDeğerGirme\obj\Debug\32-DiziyeKlavyedenDeğerGirme.exe
+C:\Users\BAHADIR\Desktop\32-DiziyeKlavyedenDeğerGirme\32-DiziyeKlavyedenDeğerGirme\obj\Debug\32-DiziyeKlavyedenDeğerGirme.pdb
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\32-DiziyeKlavyedenDeğerGirme\32-DiziyeKlavyedenDeğerGirme\bin\Debug\32-DiziyeKlavyedenDeğerGirme.exe.config
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\32-DiziyeKlavyedenDeğerGirme\32-DiziyeKlavyedenDeğerGirme\bin\Debug\32-DiziyeKlavyedenDeğerGirme.exe
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\32-DiziyeKlavyedenDeğerGirme\32-DiziyeKlavyedenDeğerGirme\bin\Debug\32-DiziyeKlavyedenDeğerGirme.pdb
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\32-DiziyeKlavyedenDeğerGirme\32-DiziyeKlavyedenDeğerGirme\obj\Debug\32-DiziyeKlavyedenDeğerGirme.csprojResolveAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\32-DiziyeKlavyedenDeğerGirme\32-DiziyeKlavyedenDeğerGirme\obj\Debug\32-DiziyeKlavyedenDeğerGirme.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\32-DiziyeKlavyedenDeğerGirme\32-DiziyeKlavyedenDeğerGirme\obj\Debug\32-DiziyeKlavyedenDeğerGirme.exe
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\32-DiziyeKlavyedenDeğerGirme\32-DiziyeKlavyedenDeğerGirme\obj\Debug\32-DiziyeKlavyedenDeğerGirme.pdb

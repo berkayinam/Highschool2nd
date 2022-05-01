@@ -1,0 +1,6 @@
+C:\Users\inan\Desktop\10 A\34-DiziyeSayıGirişi\34-DiziyeSayıGirişi\bin\Debug\34-DiziyeSayıGirişi.exe.config
+C:\Users\inan\Desktop\10 A\34-DiziyeSayıGirişi\34-DiziyeSayıGirişi\obj\Debug\34-DiziyeSayıGirişi.csprojResolveAssemblyReference.cache
+C:\Users\inan\Desktop\10 A\34-DiziyeSayıGirişi\34-DiziyeSayıGirişi\bin\Debug\34-DiziyeSayıGirişi.exe
+C:\Users\inan\Desktop\10 A\34-DiziyeSayıGirişi\34-DiziyeSayıGirişi\bin\Debug\34-DiziyeSayıGirişi.pdb
+C:\Users\inan\Desktop\10 A\34-DiziyeSayıGirişi\34-DiziyeSayıGirişi\obj\Debug\34-DiziyeSayıGirişi.exe
+C:\Users\inan\Desktop\10 A\34-DiziyeSayıGirişi\34-DiziyeSayıGirişi\obj\Debug\34-DiziyeSayıGirişi.pdb

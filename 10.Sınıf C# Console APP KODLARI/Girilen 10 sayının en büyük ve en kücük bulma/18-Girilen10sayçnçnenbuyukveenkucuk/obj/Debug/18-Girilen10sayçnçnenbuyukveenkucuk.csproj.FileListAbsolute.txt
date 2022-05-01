@@ -1,0 +1,12 @@
+C:\Users\inan\Desktop\10A\18-Girilen10sayınınenbuyukveenkucuk\18-Girilen10sayınınenbuyukveenkucuk\bin\Debug\18-Girilen10sayınınenbuyukveenkucuk.exe.config
+C:\Users\inan\Desktop\10A\18-Girilen10sayınınenbuyukveenkucuk\18-Girilen10sayınınenbuyukveenkucuk\bin\Debug\18-Girilen10sayınınenbuyukveenkucuk.exe
+C:\Users\inan\Desktop\10A\18-Girilen10sayınınenbuyukveenkucuk\18-Girilen10sayınınenbuyukveenkucuk\bin\Debug\18-Girilen10sayınınenbuyukveenkucuk.pdb
+C:\Users\inan\Desktop\10A\18-Girilen10sayınınenbuyukveenkucuk\18-Girilen10sayınınenbuyukveenkucuk\obj\Debug\18-Girilen10sayınınenbuyukveenkucuk.exe
+C:\Users\inan\Desktop\10A\18-Girilen10sayınınenbuyukveenkucuk\18-Girilen10sayınınenbuyukveenkucuk\obj\Debug\18-Girilen10sayınınenbuyukveenkucuk.pdb
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\18-Girilen10sayınınenbuyukveenkucuk\18-Girilen10sayınınenbuyukveenkucuk\bin\Debug\18-Girilen10sayınınenbuyukveenkucuk.exe.config
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\18-Girilen10sayınınenbuyukveenkucuk\18-Girilen10sayınınenbuyukveenkucuk\bin\Debug\18-Girilen10sayınınenbuyukveenkucuk.exe
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\18-Girilen10sayınınenbuyukveenkucuk\18-Girilen10sayınınenbuyukveenkucuk\bin\Debug\18-Girilen10sayınınenbuyukveenkucuk.pdb
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\18-Girilen10sayınınenbuyukveenkucuk\18-Girilen10sayınınenbuyukveenkucuk\obj\Debug\18-Girilen10sayınınenbuyukveenkucuk.csprojResolveAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\18-Girilen10sayınınenbuyukveenkucuk\18-Girilen10sayınınenbuyukveenkucuk\obj\Debug\18-Girilen10sayınınenbuyukveenkucuk.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\18-Girilen10sayınınenbuyukveenkucuk\18-Girilen10sayınınenbuyukveenkucuk\obj\Debug\18-Girilen10sayınınenbuyukveenkucuk.exe
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\18-Girilen10sayınınenbuyukveenkucuk\18-Girilen10sayınınenbuyukveenkucuk\obj\Debug\18-Girilen10sayınınenbuyukveenkucuk.pdb

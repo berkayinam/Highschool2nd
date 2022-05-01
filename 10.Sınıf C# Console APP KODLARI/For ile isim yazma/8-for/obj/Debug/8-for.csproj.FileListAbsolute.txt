@@ -1,0 +1,19 @@
+D:\Console App\10 C\8-for\8-for\bin\Debug\8-for.exe.config
+D:\Console App\10 C\8-for\8-for\bin\Debug\8-for.exe
+D:\Console App\10 C\8-for\8-for\bin\Debug\8-for.pdb
+D:\Console App\10 C\8-for\8-for\obj\Debug\8-for.exe
+D:\Console App\10 C\8-for\8-for\obj\Debug\8-for.pdb
+C:\Users\BAHADIR\Desktop\8-for\8-for\bin\Debug\8-for.exe.config
+C:\Users\BAHADIR\Desktop\8-for\8-for\bin\Debug\8-for.exe
+C:\Users\BAHADIR\Desktop\8-for\8-for\bin\Debug\8-for.pdb
+C:\Users\BAHADIR\Desktop\8-for\8-for\obj\Debug\8-for.csprojResolveAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\8-for\8-for\obj\Debug\8-for.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\8-for\8-for\obj\Debug\8-for.exe
+C:\Users\BAHADIR\Desktop\8-for\8-for\obj\Debug\8-for.pdb
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\8-for\8-for\bin\Debug\8-for.exe.config
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\8-for\8-for\bin\Debug\8-for.exe
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\8-for\8-for\bin\Debug\8-for.pdb
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\8-for\8-for\obj\Debug\8-for.csprojAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\8-for\8-for\obj\Debug\8-for.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\8-for\8-for\obj\Debug\8-for.exe
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\8-for\8-for\obj\Debug\8-for.pdb

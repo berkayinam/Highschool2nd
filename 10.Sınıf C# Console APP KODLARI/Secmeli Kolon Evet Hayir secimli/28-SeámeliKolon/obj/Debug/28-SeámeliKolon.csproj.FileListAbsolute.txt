@@ -1,0 +1,13 @@
+C:\Users\inan\Desktop\10 C\28-SeçmeliKolon\28-SeçmeliKolon\bin\Debug\28-SeçmeliKolon.exe.config
+C:\Users\inan\Desktop\10 C\28-SeçmeliKolon\28-SeçmeliKolon\bin\Debug\28-SeçmeliKolon.exe
+C:\Users\inan\Desktop\10 C\28-SeçmeliKolon\28-SeçmeliKolon\bin\Debug\28-SeçmeliKolon.pdb
+C:\Users\inan\Desktop\10 C\28-SeçmeliKolon\28-SeçmeliKolon\obj\Debug\28-SeçmeliKolon.csprojResolveAssemblyReference.cache
+C:\Users\inan\Desktop\10 C\28-SeçmeliKolon\28-SeçmeliKolon\obj\Debug\28-SeçmeliKolon.exe
+C:\Users\inan\Desktop\10 C\28-SeçmeliKolon\28-SeçmeliKolon\obj\Debug\28-SeçmeliKolon.pdb
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\SeçmeliKolon\28-SeçmeliKolon\bin\Debug\28-SeçmeliKolon.exe.config
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\SeçmeliKolon\28-SeçmeliKolon\bin\Debug\28-SeçmeliKolon.exe
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\SeçmeliKolon\28-SeçmeliKolon\bin\Debug\28-SeçmeliKolon.pdb
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\SeçmeliKolon\28-SeçmeliKolon\obj\Debug\28-SeçmeliKolon.csprojAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\SeçmeliKolon\28-SeçmeliKolon\obj\Debug\28-SeçmeliKolon.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\SeçmeliKolon\28-SeçmeliKolon\obj\Debug\28-SeçmeliKolon.exe
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\SeçmeliKolon\28-SeçmeliKolon\obj\Debug\28-SeçmeliKolon.pdb

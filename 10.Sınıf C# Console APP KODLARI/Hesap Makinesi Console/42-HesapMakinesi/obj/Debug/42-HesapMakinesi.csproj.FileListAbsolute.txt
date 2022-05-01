@@ -1,0 +1,19 @@
+C:\Users\inan\Desktop\10 A\42-HesapMakinesi\42-HesapMakinesi\bin\Debug\42-HesapMakinesi.exe.config
+C:\Users\inan\Desktop\10 A\42-HesapMakinesi\42-HesapMakinesi\bin\Debug\42-HesapMakinesi.exe
+C:\Users\inan\Desktop\10 A\42-HesapMakinesi\42-HesapMakinesi\bin\Debug\42-HesapMakinesi.pdb
+C:\Users\inan\Desktop\10 A\42-HesapMakinesi\42-HesapMakinesi\obj\Debug\42-HesapMakinesi.exe
+C:\Users\inan\Desktop\10 A\42-HesapMakinesi\42-HesapMakinesi\obj\Debug\42-HesapMakinesi.pdb
+C:\Users\BAHADIR\Desktop\42-HesapMakinesi\42-HesapMakinesi\bin\Debug\42-HesapMakinesi.exe.config
+C:\Users\BAHADIR\Desktop\42-HesapMakinesi\42-HesapMakinesi\bin\Debug\42-HesapMakinesi.exe
+C:\Users\BAHADIR\Desktop\42-HesapMakinesi\42-HesapMakinesi\bin\Debug\42-HesapMakinesi.pdb
+C:\Users\BAHADIR\Desktop\42-HesapMakinesi\42-HesapMakinesi\obj\Debug\42-HesapMakinesi.csprojResolveAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\42-HesapMakinesi\42-HesapMakinesi\obj\Debug\42-HesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\42-HesapMakinesi\42-HesapMakinesi\obj\Debug\42-HesapMakinesi.exe
+C:\Users\BAHADIR\Desktop\42-HesapMakinesi\42-HesapMakinesi\obj\Debug\42-HesapMakinesi.pdb
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\42-HesapMakinesi\42-HesapMakinesi\bin\Debug\42-HesapMakinesi.exe.config
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\42-HesapMakinesi\42-HesapMakinesi\bin\Debug\42-HesapMakinesi.exe
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\42-HesapMakinesi\42-HesapMakinesi\bin\Debug\42-HesapMakinesi.pdb
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\42-HesapMakinesi\42-HesapMakinesi\obj\Debug\42-HesapMakinesi.csprojAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\42-HesapMakinesi\42-HesapMakinesi\obj\Debug\42-HesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\42-HesapMakinesi\42-HesapMakinesi\obj\Debug\42-HesapMakinesi.exe
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\42-HesapMakinesi\42-HesapMakinesi\obj\Debug\42-HesapMakinesi.pdb

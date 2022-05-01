@@ -1,0 +1,27 @@
+C:\Users\inan\Desktop\10 A\19-10LokonluSayısalLoto\19-10LokonluSayısalLoto\bin\Debug\19-10LokonluSayısalLoto.exe.config
+C:\Users\inan\Desktop\10 A\19-10LokonluSayısalLoto\19-10LokonluSayısalLoto\bin\Debug\19-10LokonluSayısalLoto.exe
+C:\Users\inan\Desktop\10 A\19-10LokonluSayısalLoto\19-10LokonluSayısalLoto\bin\Debug\19-10LokonluSayısalLoto.pdb
+C:\Users\inan\Desktop\10 A\19-10LokonluSayısalLoto\19-10LokonluSayısalLoto\obj\Debug\19-10LokonluSayısalLoto.csprojResolveAssemblyReference.cache
+C:\Users\inan\Desktop\10 A\19-10LokonluSayısalLoto\19-10LokonluSayısalLoto\obj\Debug\19-10LokonluSayısalLoto.exe
+C:\Users\inan\Desktop\10 A\19-10LokonluSayısalLoto\19-10LokonluSayısalLoto\obj\Debug\19-10LokonluSayısalLoto.pdb
+C:\Users\BAHADIR\Desktop\19-10LokonluSayısalLoto\19-10LokonluSayısalLoto\bin\Debug\19-10LokonluSayısalLoto.exe.config
+C:\Users\BAHADIR\Desktop\19-10LokonluSayısalLoto\19-10LokonluSayısalLoto\bin\Debug\19-10LokonluSayısalLoto.exe
+C:\Users\BAHADIR\Desktop\19-10LokonluSayısalLoto\19-10LokonluSayısalLoto\bin\Debug\19-10LokonluSayısalLoto.pdb
+C:\Users\BAHADIR\Desktop\19-10LokonluSayısalLoto\19-10LokonluSayısalLoto\obj\Debug\19-10LokonluSayısalLoto.csprojResolveAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\19-10LokonluSayısalLoto\19-10LokonluSayısalLoto\obj\Debug\19-10LokonluSayısalLoto.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\19-10LokonluSayısalLoto\19-10LokonluSayısalLoto\obj\Debug\19-10LokonluSayısalLoto.exe
+C:\Users\BAHADIR\Desktop\19-10LokonluSayısalLoto\19-10LokonluSayısalLoto\obj\Debug\19-10LokonluSayısalLoto.pdb
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\19-10LokonluSayısalLoto\19-10LokonluSayısalLoto\bin\Debug\19-10LokonluSayısalLoto.exe.config
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\19-10LokonluSayısalLoto\19-10LokonluSayısalLoto\bin\Debug\19-10LokonluSayısalLoto.exe
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\19-10LokonluSayısalLoto\19-10LokonluSayısalLoto\bin\Debug\19-10LokonluSayısalLoto.pdb
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\19-10LokonluSayısalLoto\19-10LokonluSayısalLoto\obj\Debug\19-10LokonluSayısalLoto.csprojAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\19-10LokonluSayısalLoto\19-10LokonluSayısalLoto\obj\Debug\19-10LokonluSayısalLoto.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\19-10LokonluSayısalLoto\19-10LokonluSayısalLoto\obj\Debug\19-10LokonluSayısalLoto.exe
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\19-10LokonluSayısalLoto\19-10LokonluSayısalLoto\obj\Debug\19-10LokonluSayısalLoto.pdb
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\10 Lokonlu Sayısal Loto (Berkay)\19-10LokonluSayısalLoto\bin\Debug\19-10LokonluSayısalLoto.exe.config
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\10 Lokonlu Sayısal Loto (Berkay)\19-10LokonluSayısalLoto\bin\Debug\19-10LokonluSayısalLoto.exe
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\10 Lokonlu Sayısal Loto (Berkay)\19-10LokonluSayısalLoto\bin\Debug\19-10LokonluSayısalLoto.pdb
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\10 Lokonlu Sayısal Loto (Berkay)\19-10LokonluSayısalLoto\obj\Debug\19-10LokonluSayısalLoto.csprojAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\10 Lokonlu Sayısal Loto (Berkay)\19-10LokonluSayısalLoto\obj\Debug\19-10LokonluSayısalLoto.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\10 Lokonlu Sayısal Loto (Berkay)\19-10LokonluSayısalLoto\obj\Debug\19-10LokonluSayısalLoto.exe
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\10 Lokonlu Sayısal Loto (Berkay)\19-10LokonluSayısalLoto\obj\Debug\19-10LokonluSayısalLoto.pdb

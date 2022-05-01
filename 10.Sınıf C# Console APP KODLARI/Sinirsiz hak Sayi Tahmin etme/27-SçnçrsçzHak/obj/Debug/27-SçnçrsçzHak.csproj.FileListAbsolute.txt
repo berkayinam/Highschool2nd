@@ -1,0 +1,13 @@
+C:\Users\inan\Desktop\10 C\27-SınırsızHak\27-SınırsızHak\bin\Debug\27-SınırsızHak.exe.config
+C:\Users\inan\Desktop\10 C\27-SınırsızHak\27-SınırsızHak\bin\Debug\27-SınırsızHak.exe
+C:\Users\inan\Desktop\10 C\27-SınırsızHak\27-SınırsızHak\bin\Debug\27-SınırsızHak.pdb
+C:\Users\inan\Desktop\10 C\27-SınırsızHak\27-SınırsızHak\obj\Debug\27-SınırsızHak.csprojResolveAssemblyReference.cache
+C:\Users\inan\Desktop\10 C\27-SınırsızHak\27-SınırsızHak\obj\Debug\27-SınırsızHak.exe
+C:\Users\inan\Desktop\10 C\27-SınırsızHak\27-SınırsızHak\obj\Debug\27-SınırsızHak.pdb
+C:\Users\BAHADIR\Desktop\27-SınırsızHak\27-SınırsızHak\bin\Debug\27-SınırsızHak.exe.config
+C:\Users\BAHADIR\Desktop\27-SınırsızHak\27-SınırsızHak\bin\Debug\27-SınırsızHak.exe
+C:\Users\BAHADIR\Desktop\27-SınırsızHak\27-SınırsızHak\bin\Debug\27-SınırsızHak.pdb
+C:\Users\BAHADIR\Desktop\27-SınırsızHak\27-SınırsızHak\obj\Debug\27-SınırsızHak.csprojResolveAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\27-SınırsızHak\27-SınırsızHak\obj\Debug\27-SınırsızHak.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\27-SınırsızHak\27-SınırsızHak\obj\Debug\27-SınırsızHak.exe
+C:\Users\BAHADIR\Desktop\27-SınırsızHak\27-SınırsızHak\obj\Debug\27-SınırsızHak.pdb

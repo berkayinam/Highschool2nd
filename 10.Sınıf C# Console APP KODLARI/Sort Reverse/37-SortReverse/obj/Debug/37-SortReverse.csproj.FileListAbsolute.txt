@@ -1,0 +1,12 @@
+C:\Users\inan\Desktop\10 A\37-SortReverse\37-SortReverse\bin\Debug\37-SortReverse.exe.config
+C:\Users\inan\Desktop\10 A\37-SortReverse\37-SortReverse\bin\Debug\37-SortReverse.exe
+C:\Users\inan\Desktop\10 A\37-SortReverse\37-SortReverse\bin\Debug\37-SortReverse.pdb
+C:\Users\inan\Desktop\10 A\37-SortReverse\37-SortReverse\obj\Debug\37-SortReverse.exe
+C:\Users\inan\Desktop\10 A\37-SortReverse\37-SortReverse\obj\Debug\37-SortReverse.pdb
+C:\Users\BAHADIR\Desktop\37-SortReverse\37-SortReverse\bin\Debug\37-SortReverse.exe.config
+C:\Users\BAHADIR\Desktop\37-SortReverse\37-SortReverse\bin\Debug\37-SortReverse.exe
+C:\Users\BAHADIR\Desktop\37-SortReverse\37-SortReverse\bin\Debug\37-SortReverse.pdb
+C:\Users\BAHADIR\Desktop\37-SortReverse\37-SortReverse\obj\Debug\37-SortReverse.csprojResolveAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\37-SortReverse\37-SortReverse\obj\Debug\37-SortReverse.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\37-SortReverse\37-SortReverse\obj\Debug\37-SortReverse.exe
+C:\Users\BAHADIR\Desktop\37-SortReverse\37-SortReverse\obj\Debug\37-SortReverse.pdb

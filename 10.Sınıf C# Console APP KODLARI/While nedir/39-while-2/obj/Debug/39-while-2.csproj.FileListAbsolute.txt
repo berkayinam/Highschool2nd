@@ -1,0 +1,11 @@
+C:\Users\inan\Desktop\10 C\39-while-2\39-while-2\bin\Debug\39-while-2.exe.config
+C:\Users\inan\Desktop\10 C\39-while-2\39-while-2\bin\Debug\39-while-2.exe
+C:\Users\inan\Desktop\10 C\39-while-2\39-while-2\bin\Debug\39-while-2.pdb
+C:\Users\inan\Desktop\10 C\39-while-2\39-while-2\obj\Debug\39-while-2.exe
+C:\Users\inan\Desktop\10 C\39-while-2\39-while-2\obj\Debug\39-while-2.pdb
+C:\Users\BAHADIR\Desktop\39-while-2\39-while-2\bin\Debug\39-while-2.exe.config
+C:\Users\BAHADIR\Desktop\39-while-2\39-while-2\bin\Debug\39-while-2.exe
+C:\Users\BAHADIR\Desktop\39-while-2\39-while-2\bin\Debug\39-while-2.pdb
+C:\Users\BAHADIR\Desktop\39-while-2\39-while-2\obj\Debug\39-while-2.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\39-while-2\39-while-2\obj\Debug\39-while-2.exe
+C:\Users\BAHADIR\Desktop\39-while-2\39-while-2\obj\Debug\39-while-2.pdb

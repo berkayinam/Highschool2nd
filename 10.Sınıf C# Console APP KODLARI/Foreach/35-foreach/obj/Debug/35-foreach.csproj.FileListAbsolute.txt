@@ -1,0 +1,19 @@
+C:\Users\inan\Desktop\10 A\35-foreach\35-foreach\bin\Debug\35-foreach.exe.config
+C:\Users\inan\Desktop\10 A\35-foreach\35-foreach\bin\Debug\35-foreach.exe
+C:\Users\inan\Desktop\10 A\35-foreach\35-foreach\bin\Debug\35-foreach.pdb
+C:\Users\inan\Desktop\10 A\35-foreach\35-foreach\obj\Debug\35-foreach.exe
+C:\Users\inan\Desktop\10 A\35-foreach\35-foreach\obj\Debug\35-foreach.pdb
+C:\Users\BAHADIR\Desktop\35-foreach\35-foreach\bin\Debug\35-foreach.exe.config
+C:\Users\BAHADIR\Desktop\35-foreach\35-foreach\bin\Debug\35-foreach.exe
+C:\Users\BAHADIR\Desktop\35-foreach\35-foreach\bin\Debug\35-foreach.pdb
+C:\Users\BAHADIR\Desktop\35-foreach\35-foreach\obj\Debug\35-foreach.csprojResolveAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\35-foreach\35-foreach\obj\Debug\35-foreach.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\35-foreach\35-foreach\obj\Debug\35-foreach.exe
+C:\Users\BAHADIR\Desktop\35-foreach\35-foreach\obj\Debug\35-foreach.pdb
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\35-foreach\35-foreach\bin\Debug\35-foreach.exe.config
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\35-foreach\35-foreach\bin\Debug\35-foreach.exe
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\35-foreach\35-foreach\bin\Debug\35-foreach.pdb
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\35-foreach\35-foreach\obj\Debug\35-foreach.csprojResolveAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\35-foreach\35-foreach\obj\Debug\35-foreach.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\35-foreach\35-foreach\obj\Debug\35-foreach.exe
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\35-foreach\35-foreach\obj\Debug\35-foreach.pdb

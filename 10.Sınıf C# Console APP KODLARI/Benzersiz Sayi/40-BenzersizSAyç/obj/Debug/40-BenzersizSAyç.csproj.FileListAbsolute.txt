@@ -1,0 +1,19 @@
+C:\Users\inan\Desktop\11A\40-BenzersizSAyı\40-BenzersizSAyı\bin\Debug\40-BenzersizSAyı.exe.config
+C:\Users\inan\Desktop\11A\40-BenzersizSAyı\40-BenzersizSAyı\bin\Debug\40-BenzersizSAyı.exe
+C:\Users\inan\Desktop\11A\40-BenzersizSAyı\40-BenzersizSAyı\bin\Debug\40-BenzersizSAyı.pdb
+C:\Users\inan\Desktop\11A\40-BenzersizSAyı\40-BenzersizSAyı\obj\Debug\40-BenzersizSAyı.exe
+C:\Users\inan\Desktop\11A\40-BenzersizSAyı\40-BenzersizSAyı\obj\Debug\40-BenzersizSAyı.pdb
+C:\Users\BAHADIR\Desktop\40-BenzersizSAyı\40-BenzersizSAyı\bin\Debug\40-BenzersizSAyı.exe.config
+C:\Users\BAHADIR\Desktop\40-BenzersizSAyı\40-BenzersizSAyı\bin\Debug\40-BenzersizSAyı.exe
+C:\Users\BAHADIR\Desktop\40-BenzersizSAyı\40-BenzersizSAyı\bin\Debug\40-BenzersizSAyı.pdb
+C:\Users\BAHADIR\Desktop\40-BenzersizSAyı\40-BenzersizSAyı\obj\Debug\40-BenzersizSAyı.csprojResolveAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\40-BenzersizSAyı\40-BenzersizSAyı\obj\Debug\40-BenzersizSAyı.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\40-BenzersizSAyı\40-BenzersizSAyı\obj\Debug\40-BenzersizSAyı.exe
+C:\Users\BAHADIR\Desktop\40-BenzersizSAyı\40-BenzersizSAyı\obj\Debug\40-BenzersizSAyı.pdb
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\40-BenzersizSAyı\40-BenzersizSAyı\bin\Debug\40-BenzersizSAyı.exe.config
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\40-BenzersizSAyı\40-BenzersizSAyı\bin\Debug\40-BenzersizSAyı.exe
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\40-BenzersizSAyı\40-BenzersizSAyı\bin\Debug\40-BenzersizSAyı.pdb
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\40-BenzersizSAyı\40-BenzersizSAyı\obj\Debug\40-BenzersizSAyı.csprojResolveAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\40-BenzersizSAyı\40-BenzersizSAyı\obj\Debug\40-BenzersizSAyı.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\40-BenzersizSAyı\40-BenzersizSAyı\obj\Debug\40-BenzersizSAyı.exe
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\40-BenzersizSAyı\40-BenzersizSAyı\obj\Debug\40-BenzersizSAyı.pdb

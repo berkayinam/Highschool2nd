@@ -1,0 +1,22 @@
+C:\Users\inan\Desktop\10 A\20-İstenilenAdetteKolonluSayısalLoto\20-İstenilenAdetteKolonluSayısalLoto\bin\Debug\20-İstenilenAdetteKolonluSayısalLoto.exe.config
+C:\Users\inan\Desktop\10 A\20-İstenilenAdetteKolonluSayısalLoto\20-İstenilenAdetteKolonluSayısalLoto\bin\Debug\20-İstenilenAdetteKolonluSayısalLoto.exe
+C:\Users\inan\Desktop\10 A\20-İstenilenAdetteKolonluSayısalLoto\20-İstenilenAdetteKolonluSayısalLoto\bin\Debug\20-İstenilenAdetteKolonluSayısalLoto.pdb
+C:\Users\inan\Desktop\10 A\20-İstenilenAdetteKolonluSayısalLoto\20-İstenilenAdetteKolonluSayısalLoto\obj\Debug\20-İstenilenAdetteKolonluSayısalLoto.exe
+C:\Users\inan\Desktop\10 A\20-İstenilenAdetteKolonluSayısalLoto\20-İstenilenAdetteKolonluSayısalLoto\obj\Debug\20-İstenilenAdetteKolonluSayısalLoto.pdb
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\20-İstenilenAdetteKolonluSayısalLoto\20-İstenilenAdetteKolonluSayısalLoto\bin\Debug\20-İstenilenAdetteKolonluSayısalLoto.exe.config
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\20-İstenilenAdetteKolonluSayısalLoto\20-İstenilenAdetteKolonluSayısalLoto\bin\Debug\20-İstenilenAdetteKolonluSayısalLoto.exe
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\20-İstenilenAdetteKolonluSayısalLoto\20-İstenilenAdetteKolonluSayısalLoto\bin\Debug\20-İstenilenAdetteKolonluSayısalLoto.pdb
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\20-İstenilenAdetteKolonluSayısalLoto\20-İstenilenAdetteKolonluSayısalLoto\obj\Debug\20-İstenilenAdetteKolonluSayısalLoto.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\20-İstenilenAdetteKolonluSayısalLoto\20-İstenilenAdetteKolonluSayısalLoto\obj\Debug\20-İstenilenAdetteKolonluSayısalLoto.exe
+C:\Users\BAHADIR\Desktop\BERKAYLA BAKILACAK\20-İstenilenAdetteKolonluSayısalLoto\20-İstenilenAdetteKolonluSayısalLoto\obj\Debug\20-İstenilenAdetteKolonluSayısalLoto.pdb
+C:\Users\BAHADIR\Desktop\20-İstenilenAdetteKolonluSayısalLoto\20-İstenilenAdetteKolonluSayısalLoto\bin\Debug\20-İstenilenAdetteKolonluSayısalLoto.exe.config
+C:\Users\BAHADIR\Desktop\20-İstenilenAdetteKolonluSayısalLoto\20-İstenilenAdetteKolonluSayısalLoto\bin\Debug\20-İstenilenAdetteKolonluSayısalLoto.exe
+C:\Users\BAHADIR\Desktop\20-İstenilenAdetteKolonluSayısalLoto\20-İstenilenAdetteKolonluSayısalLoto\bin\Debug\20-İstenilenAdetteKolonluSayısalLoto.pdb
+C:\Users\BAHADIR\Desktop\20-İstenilenAdetteKolonluSayısalLoto\20-İstenilenAdetteKolonluSayısalLoto\obj\Debug\20-İstenilenAdetteKolonluSayısalLoto.csprojResolveAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\20-İstenilenAdetteKolonluSayısalLoto\20-İstenilenAdetteKolonluSayısalLoto\obj\Debug\20-İstenilenAdetteKolonluSayısalLoto.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\20-İstenilenAdetteKolonluSayısalLoto\20-İstenilenAdetteKolonluSayısalLoto\obj\Debug\20-İstenilenAdetteKolonluSayısalLoto.exe
+C:\Users\BAHADIR\Desktop\20-İstenilenAdetteKolonluSayısalLoto\20-İstenilenAdetteKolonluSayısalLoto\obj\Debug\20-İstenilenAdetteKolonluSayısalLoto.pdb
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\İstenilen Adette Kolonlu Sayısal Loto (Berkay)\20-İstenilenAdetteKolonluSayısalLoto\obj\Debug\20-İstenilenAdetteKolonluSayısalLoto.csprojAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\İstenilen Adette Kolonlu Sayısal Loto (Berkay)\20-İstenilenAdetteKolonluSayısalLoto\obj\Debug\20-İstenilenAdetteKolonluSayısalLoto.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\İstenilen Adette Kolonlu Sayısal Loto (Berkay)\20-İstenilenAdetteKolonluSayısalLoto\obj\Debug\20-İstenilenAdetteKolonluSayısalLoto.exe
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\İstenilen Adette Kolonlu Sayısal Loto (Berkay)\20-İstenilenAdetteKolonluSayısalLoto\obj\Debug\20-İstenilenAdetteKolonluSayısalLoto.pdb

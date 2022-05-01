@@ -1,0 +1,20 @@
+C:\Users\inan\Desktop\10A\10-for\10-for\bin\Debug\10-for.exe.config
+C:\Users\inan\Desktop\10A\10-for\10-for\bin\Debug\10-for.exe
+C:\Users\inan\Desktop\10A\10-for\10-for\bin\Debug\10-for.pdb
+C:\Users\inan\Desktop\10A\10-for\10-for\obj\Debug\10-for.csprojResolveAssemblyReference.cache
+C:\Users\inan\Desktop\10A\10-for\10-for\obj\Debug\10-for.exe
+C:\Users\inan\Desktop\10A\10-for\10-for\obj\Debug\10-for.pdb
+C:\Users\BAHADIR\Desktop\10-for\10-for\bin\Debug\10-for.exe.config
+C:\Users\BAHADIR\Desktop\10-for\10-for\bin\Debug\10-for.exe
+C:\Users\BAHADIR\Desktop\10-for\10-for\bin\Debug\10-for.pdb
+C:\Users\BAHADIR\Desktop\10-for\10-for\obj\Debug\10-for.csprojResolveAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\10-for\10-for\obj\Debug\10-for.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\10-for\10-for\obj\Debug\10-for.exe
+C:\Users\BAHADIR\Desktop\10-for\10-for\obj\Debug\10-for.pdb
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\10-for\10-for\bin\Debug\10-for.exe.config
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\10-for\10-for\bin\Debug\10-for.exe
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\10-for\10-for\bin\Debug\10-for.pdb
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\10-for\10-for\obj\Debug\10-for.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\10-for\10-for\obj\Debug\10-for.exe
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\10-for\10-for\obj\Debug\10-for.pdb
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\10-for\10-for\obj\Debug\10-for.csprojAssemblyReference.cache
